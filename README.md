@@ -16,4 +16,5 @@ Open `index.html` directly in your browser (double-click the file) for a quick p
 integration
 8:00 am lab
 10:00 am lab
+12:30 pm lab
 
